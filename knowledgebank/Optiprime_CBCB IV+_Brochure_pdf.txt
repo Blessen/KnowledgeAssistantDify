@@ -1,0 +1,212 @@
+
+Kirloskar Powergen
+OPTIPRIME
+CPCB IV+ COMPLIANT
+117 · 400 · 500 · 640 · 1000 · 1500 · 2020 kVA
+
+BETTER POWER FOR A
+limitless
+TOMORROW
+# BETTER POWER FOR A
+Limitless TOMORROW
+# A RICH HERITAGE # OF OVER A CENTURY OF # ENGINEERING EXCELLENCE.
+Kirloskar powering generating sets prioritize user experience, delivering exceptional features and benefits. Streamlined installation and enhanced dependability to expedited service, reduced maintenance costs, and optimized performance.
+
+Kirloskar Powergen sets itself apart with groundbreaking engineering that establishes new industry benchmarks.
+
+limitless POTENTIAL, SUSTAINABLE PRACTICES
+Our state-of-the-art manufacturing facility embodies our commitment to sustainable practices.
+
+We partner with nature to power the facility itself, transforming waste into valuable resources.
+
+This focus on sustainability inspires both our workforce and surrounding communities.
+
+It's here, where cutting-edge technology meets exceptional skills,
+
+that we engineer solutions to empower limitless possibilities.
+
+Discover our Plant with a
+
+QR Code Scan.
+
+![QR Code]
+
+OPTIPRIME
+117 · 400 · 500 · 640 · 1000 · 1500 · 2020kVA
+
+THE VERSATILE INFRASTRUCTURE POWER SOLUTION
+
+
+Infrastructure Icon	Industry Icon	![IT Sector Icon](IT Sector)	Hospitality Icon	Healthcare Icon	![Real Estate Icon](Real Estate)	Government Icon	Logistics Icon
+Infrastructure	Industry	IT Sector	Hospitality	Healthcare	Real Estate	Government	Logistics
+# TECHNICAL SPECIFICATIONS Optiprime Genset Technical Specifications
+
+Specification	Unit	OPTIPRIME 117 CPCB IV+ 58.5 x 2 kVA	OPTIPRIME 400 CPCB IV+ 200 x 2 kVA	OPTIPRIME 500 CPCB IV+ 250 x 2 kVA	OPTIPRIME 640 CPCB IV+ 320 x 2 kVA	OPTIPRIME 1000 CPCB IV+ 500 x 2 kVA	OPTIPRIME 1500 CPCB IV+ 750 x 2 kVA	OPTIPRIME 2020 CPCB IV+ 1010 x 2 kVA Containerised
+Prime Rating at Rated RPM [as per ISO8528]	kVA	58.5 x 2	200 x 2	250 x 2	320 x 2	500 x 2	750 x 2	1010 x 2
+kW	46.8 x 2	160 x 2	200 x 2	256 x 2	400 x 2	600 x 2	808 x 2
+Voltage / Frequency / Power Factor	-	415V / 50HZ / 0.8 lagging	415V / 50HZ / 0.8 lagging	415V / 50HZ / 0.8 lagging	415V / 50HZ / 0.8 lagging	415V / 50HZ / 0.8 lagging	415V / 50HZ / 0.8 lagging	415V / 50HZ / 0.8 lagging
+Noise Level	dBA	≤ 75 dBA @ 1Mtr (Genset with canopy)	≤ 75 dBA @ 1Mtr (Genset with canopy)	≤ 75 dBA @ 1Mtr (Genset with canopy)	≤ 75 dBA @ 1Mtr (Genset with canopy)	≤ 75 dBA @ 1Mtr (Genset with canopy)	≤ 75 dBA @ 1Mtr (Genset with canopy)	Contact Kirloskar Oil Engines Ltd. for details
+Fuel Consumption#	Ltrs./Hr							
+- At 100% Load		21.6	91.4	106	133	207	293	402.8
+- At 75% Load		16.6	71.1	80	102	158	240	308.4
+- At 50% Load		12.6	50.2	58	69	111	170	215.4
+- At 25% Load		8.9	25.1	30	35	56	86	111.1
+Fuel Tank Capacity (Standard DG Set)	Ltrs	165 x 2	790	690 x 2	500 x 2	870 x 2	945 x 2	430 x 2
+Weight of Genset with Canopy (Approx.)§	Dry (Kg)	2511	6000	8000	8100	13786	18500	25170
+Wet (Kg)	2561	6100	8150	8250	14000	18900	26000
+Overall dimensions of Genset^								
+- Length	mm	2900	7500	8500	8500	11200	12000	12192
+- Width	mm	2100	1450	1700	1700	2125	2300	2438
+- Height (Without Silencer)	mm	1701	1900	2042	2042	2655	2713	2895
+- Height (With Silencer)	mm	1701	2730	2487	2487	3655	3381	4002
+Genset Alignment / Configuration	-	Parallel	Series	Series	Series	Series	Series	Series
+ENGINE MODEL
+
+Specification	Unit	4R810ETA 4G1	6K1080ETA 4G2	6SL90ETA 4G2	6SL90ETA 4G3	DV8 ETA 4G3	DV12 ETA 4G2	DV16 ETA G3
+Rated output (Prime continuous ratings as per ISO 8528-1)								
+- kW	kW	54.4 x 2	183.8 x 2	228 x 2	279.5 x 2	447 x 2	662 x 2	889 x 2
+- HP	HP	74 x 2	250 x 2	310 x 2	380 x 2	608 x 2	900.6 x 2	1210 x 2
+Number of Cylinders	No.	4 x 2	6 x 2	6 x 2	6 x 2	8 x 2	12 x 2	16 x 2
+Cubic Capacity²	Ltrs.	3.24 x 2	6.48 x 2	8.86 x 2	8.86 x 2	15.92 x 2	23.88 x 2	31.84 x 2
+Lube Oil Change Period	Hrs.	500	500	500	500	500	500	500
+Lube Oil Sump Capacity	Ltrs.	10 x 2	25 x 2	27 x 2	27 x 2	45 x 2	81 x 2	130 x 2
+Coolant Capacity	Ltrs.	12.70 x 2	28 x 2	36 x 2	36.4 x 2	63 x 2	173.9 x 2	180 x 2
+AdBlue / DEF Capacity	Ltrs.	NA	45 x 2	45 x 2	45 x 2	45 x 4	45 x 4	-
+Block Loading Capacity	%	60	50	50	50	55	53	55
+ALTERNATOR
+
+Specification	Unit	4R810ETA 4G1	6K1080ETA 4G2	6SL90ETA 4G2	6SL90ETA 4G3	DV8 ETA 4G3	DV12 ETA 4G2	DV16 ETA G3
+Insulation Class	-	Class H	Class H	Class H	Class H	Class H	Class H	Class H
+Alternator Efficiency (at 100% load) 0.8 pf*	%	90.8	94.2	94.3	94.3	95.7	94.7	95.1
+Max Voltage Dip at Full Load 0.8 pf Lag	%	<20%	<20%	<20%	<20%	<20%	<20%	<20%
+Max Time to build up rated voltage at Rated RPM	Sec	< 2 sec provided engine reach the rated speed	< 2 sec provided engine reach the rated speed	< 2 sec provided engine reach the rated speed	< 2 sec provided engine reach the rated speed	< 2 sec provided engine reach the rated speed	< 2 sec provided engine reach the rated speed	< 2 sec provided engine reach the rated speed
+# SYNCHRONIZATION PANEL
+
+OPTIPRIME 117
+CPCB IV+ 58.5 x 2 kVA	OPTIPRIME 400
+CPCB IV+ 200 x 2 kVA	OPTIPRIME 500
+CPCB IV+ 250 x 2 kVA	OPTIPRIME 640
+CPCB IV+ 320 x 2 kVA	OPTIPRIME 1000
+CPCB IV+ 500 x 2 kVA	OPTIPRIME 1500
+CPCB IV+ 750 x 2 kVA	OPTIPRIME 2020
+CPCB IV+ 1010 x 2 kVA Containerized
+Incoming Breaker	Standard	Standard	Standard	Standard	Standard	Standard	Standard
+Outgoing Breaker	Not Available	Not Available	Not Available	Not Available	Not Available	Not Available	Optional
+Synchronization Controller**	KG1500	KG1500	KG1500	KG1500	KG1500	KG1500	KG1500
+^ Tolerences Apply
+
+With 0.845 Specific Gravity of diesel (5% Tolerance)
+$ These weight are for handling & transportation only, ±5% tolerance apply
+
+Efficiency of Alternator as per standards IEC 60034-1
+** For operation of outgoing breaker higher version of Synchronization controller is required
+
+For Site Conditions other than standard operating conditions consult Kirloskar Oil Engines Ltd.
+
+For Site specific layout consult Kirloskar Oil Engines Ltd to ammend the Genset alignment/configuration
+
+MULTI GENSETS OPERATIONS
+DIGITALIZATION: KIRLOSKAR KG1500 CONTROLLER
+![Diagram showing multiple gensets connected to a transformer with KG1500 controllers managing synchronization and protection functions.]
+
+Engine Protection
+Alternator Protection
+Genset Monitoring
+Single unit for Genset controller and Synchronization controller
+Breaker Monitoring
+In-Built Load Sharing Module
+Run-Up Synchronization
+In-Built Neutral Interlocking Logic
+<page_number>14<page_number>
+
+# CUSTOMISED POWER SOLUTIONS FOR DYNAMIC NEEDS
+Businesses worldwide face fluctuating power demands. Whether due to daily variations or specific usage patterns, a flexible power solution is essential.
+
+Kirloskar offers the Optiprime, a customized solution ideal for applications with variable power needs. This innovative system tackles fluctuating loads, reducing fuel consumption and CO2 emissions by up to 40%.
+
+The Optiprime's centralized control panel with an integrated Power Management System ensures optimal performance. This intelligent system seamlessly switches on or off the two power packs based on real-time load requirements.
+
+The Optiprime's versatility extends to its configuration options. It can be deployed as a single unit, or two separate units can be combined, with prime and standby power functionalities housed within a single enclosure.
+
+OPTIPRIME
+FEATURES
+
+Patented Hybrid Technology	Optimum Power	Optimal Efficiency	Optimised Fuel Consumption	Reduced Ownership Cost
+Patented Hybrid Technology	Optimum Power	Optimal Efficiency	Optimised Fuel Consumption	Reduced Ownership Cost
+
+Twin-Hybrid Power Packs and In-built Synchronisation	Reduced Carbon Dioxide Emissions by 40%	Reduced Nitrous Oxide Emissions by 50%	Better Flexibility	Lower Product Footprint - 20% Reduction in Space
+Twin-Hybrid Power Packs and In-built Synchronisation	Reduced Carbon Dioxide Emissions by 40%	Reduced Nitrous Oxide Emissions by 50%	Better Flexibility	Lower Product Footprint - 20% Reduction in Space
+OPTIPRIME
+F E A T U R E S
+
+Prime Rating:
+
+Unlimited hours, 10% temporary overload possible.
+
+O2E Series
+
+Optimal Operating Efficiency even at partial loads, further reducing costs.
+
+Bigger Engine (cc):
+
+Better genset performance and faster load handling
+
+Common Rail Direct Injection (CRDi):
+
+Advanced fuel injection for better performance, lower emissions, and smoother operation.
+
+CPCB IV+ Compliant:
+
+Performance, clean power and reduced costs
+
+Control Your Power, Anytime, Anywhere:
+
+Monitor your Kirloskar genset remotely, receive alerts, and access service with a tap with our Remote Monitoring System
+
+# Beyond Efficiency. ### A Closer Look at Cutting-Edge Technology
+O2E Series: Low Emission
+High Efficiency
+Efficient CRDi System
+500 Hours Lube Oil Change Period
+Compact, Robust and Efficient.
+Base Mounted Radiator System
+☀️ Microprocessor Based Controller
+🖥️ Graphical LCD Display
+🛠️ Advanced Monitoring and Diagnostics
+kirloskar powergen
+SHAPING THE FUTURE.
+
+DELIVERING POWER GLOBALLY.
+
+INGENIOUS DESIGN.
+
+UNMATCHED PERFORMANCE.
+
+KIRLOSKAR OIL ENGINES LIMITED
+
+A Kirloskar Group Company
+
+Regd. Office: 13, Laxmanrao Kirloskar Road,
+
+Khadki, Pune, Maharashtra 411 003
+
+INDIA
+
+
+![QR Code]
+☎️ Tel: +91 (20) 2581 0341
+🖨 Fax: +91 (20) 2581 3208, 2581 0209
+📞 Helpline: +91 8806 33 44 33
+✉ koel.helpdesk@kirloskar.com
+The Mark ‘Kirloskar’ used in any form as prefix or suffix and  are owned by Kirloskar Proprietary Limited and Kirloskar Oil Engines Limited is the permitted user.
+
+BETTER
+
+POWER
+
+FOR A
+
+limitless
+
+TOMORROW
+

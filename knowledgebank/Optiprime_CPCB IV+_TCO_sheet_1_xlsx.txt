@@ -1,0 +1,456 @@
+# Operating Cost for 500 kVA DG set @ 75% load
+
+## Make of Engine
+
+- Engine Model/ Genset Model
+  - KOEL-SOLO
+    - KG4-500WS
+  - KOEL-OPTIPRIME
+    - KG1-500WS OPTIPRIME (6SL90ETA-4G2)
+
+## DG set rating (Prime Rating)
+
+- kVA
+  - KOEL-SOLO: 500
+  - KOEL-OPTIPRIME: 500
+- Kw
+  - KOEL-SOLO: 400
+  - KOEL-OPTIPRIME: 400
+
+## Units generated per Hour @ 75% load
+
+- Kwh/ hour
+  - KOEL-SOLO: 300
+  - KOEL-OPTIPRIME: 300
+
+## Number of Hours per year
+
+- KOEL-SOLO: 10000
+- KOEL-OPTIPRIME: 10000
+
+## Number of units generated per year
+
+- KOEL-SOLO: 3000000
+- KOEL-OPTIPRIME: 3000000
+
+## Fuel Cost
+
+### Fuel Rates
+
+- Rs. / litre
+  - KOEL-SOLO: 100
+  - KOEL-OPTIPRIME: 100
+
+### Fuel Consumption @ 75% load
+
+- Litres / hour
+  - KOEL-SOLO: 82.60
+  - KOEL-OPTIPRIME: 80.00
+
+## Number of Units per Litre of Diesel
+
+- Kwh / litre
+  - KOEL-SOLO: 3.63
+  - KOEL-OPTIPRIME: 3.75
+
+## Fuel Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 27.53
+  - KOEL-OPTIPRIME: 26.67
+
+## Lub Oil Consumption Cost
+
+### Lub Oil Consumption @ 75% load
+
+- Litres / hour
+  - KOEL-SOLO: 0.10
+  - KOEL-OPTIPRIME: 0.10
+
+### Cost of Lab Oil
+
+- Rs. / litre
+  - KOEL-SOLO: 275
+  - KOEL-OPTIPRIME: 275
+
+### Lub Oil Consumption Cost
+
+- Rs. / hour
+  - KOEL-SOLO: 27
+  - KOEL-OPTIPRIME: 26
+
+### Lub Oil Consumption Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 0.091
+  - KOEL-OPTIPRIME: 0.088
+
+## DEF Cost
+
+### DEF Consumption @ 75% load
+
+- Litres / hour
+  - KOEL-SOLO: 7.021
+  - KOEL-OPTIPRIME: 6.800
+
+### DEF of Lab Oil
+
+- Rs. / litre
+  - KOEL-SOLO: 36
+  - KOEL-OPTIPRIME: 36
+
+### DEF Consumption Cost
+
+- Rs. / hour
+  - KOEL-SOLO: 253
+  - KOEL-OPTIPRIME: 245
+
+### DEF Consumption Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 0.843
+  - KOEL-OPTIPRIME: 0.816
+
+## Maintenance Cost
+
+### Maintenance Period
+
+- Hours
+  - KOEL-SOLO: 1000.00
+  - KOEL-OPTIPRIME: 1000.00
+
+### Maintenance kit cost
+
+- Rs
+  - KOEL-SOLO: 51675
+  - KOEL-OPTIPRIME: 51332
+
+### Maintenance cost
+
+- Rs / Kwh
+  - KOEL-SOLO: 0.172
+  - KOEL-OPTIPRIME: 0.171
+
+## Total Cost per KWH
+
+- Rs / Kwh
+  - KOEL-SOLO: 28.64
+  - KOEL-OPTIPRIME: 27.74
+
+## Operating Cost for 500kVA DG set
+
+- Rs
+  - KOEL-SOLO: 8591689
+  - KOEL-OPTIPRIME: 8322532
+
+## Profit over Regular 500 kVA DV
+
+- Rs
+  - KOEL-SOLO: 260157
+
+
+
+# Operating Cost for 500 kVA DG set @ 50% load
+
+## Make of Engine
+
+- Engine Model/ Genset Model
+  - KOEL-SOLO
+    - KG1-500WS
+  - KOEL-OPTIPRIME
+    - KG1-500WS OPTIPRIME (6SL90ETA-4G2)
+
+## DG set rating (Prime Rating)
+
+- kVA
+  - KOEL-SOLO: 500
+  - KOEL-OPTIPRIME: 500
+- Kw
+  - KOEL-SOLO: 400
+  - KOEL-OPTIPRIME: 400
+
+## Units generated per Hour @ 50% load
+
+- Kwh/ hour
+  - KOEL-SOLO: 200
+  - KOEL-OPTIPRIME: 200
+
+## Number of Hours per year
+
+- KOEL-SOLO: 10000
+- KOEL-OPTIPRIME: 10000
+
+## Number of units generated per year
+
+- KOEL-SOLO: 2000000
+- KOEL-OPTIPRIME: 2000000
+
+## Fuel Cost
+
+### Fuel Rates
+
+- Rs. / litre
+  - KOEL-SOLO: 100.00
+  - KOEL-OPTIPRIME: 100.00
+
+### Fuel Consumption @ 50% load
+
+- Litres / hour
+  - KOEL-SOLO: 58.60
+  - KOEL-OPTIPRIME: 58.00
+
+## Number of Units per Litre of Diesel
+
+- Kwh / litre
+  - KOEL-SOLO: 3.41
+  - KOEL-OPTIPRIME: 3.45
+
+## Fuel Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 29.30
+  - KOEL-OPTIPRIME: 29.00
+
+## Lub Oil Consumption Cost
+
+### Lub Oil Consumption @ 50% load
+
+- Litres / hour
+  - KOEL-SOLO: 0.07
+  - KOEL-OPTIPRIME: 0.07
+
+### Cost of Lab Oil
+
+- Rs. / litre
+  - KOEL-SOLO: 275
+  - KOEL-OPTIPRIME: 275
+
+### Lub Oil Consumption Cost
+
+- Rs. / hour
+  - KOEL-SOLO: 19
+  - KOEL-OPTIPRIME: 19
+
+### Lub Oil Consumption Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 0.097
+  - KOEL-OPTIPRIME: 0.096
+
+## DEF Cost
+
+### DEF Consumption @ 50% load
+
+- Litres / hour
+  - KOEL-SOLO: 3.510
+  - KOEL-OPTIPRIME: 3.400
+
+### DEF of Lab Oil
+
+- Rs. / litre
+  - KOEL-SOLO: 36
+  - KOEL-OPTIPRIME: 36
+
+### DEF Consumption Cost
+
+- Rs. / hour
+  - KOEL-SOLO: 126
+  - KOEL-OPTIPRIME: 122
+
+### DEF Consumption Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 0.630
+  - KOEL-OPTIPRIME: 0.610
+
+## Maintenance Cost
+
+### Maintenance Period
+
+- Hours
+  - KOEL-SOLO: 1000.00
+  - KOEL-OPTIPRIME: 1000.00
+
+### Maintenance kit cost
+
+- Rs
+  - KOEL-SOLO: 51675
+  - KOEL-OPTIPRIME: 51332
+
+### Maintenance cost
+
+- Rs / Kwh
+  - KOEL-SOLO: 0.258
+  - KOEL-OPTIPRIME: 0.257
+
+## Total Cost per KWH
+
+- Rs / Kwh
+  - KOEL-SOLO: 30.23
+  - KOEL-OPTIPRIME: 30.05
+
+## Operating Cost for 500kVA DG set
+
+- Rs
+  - KOEL-SOLO: 60460000
+  - KOEL-OPTIPRIME: 60100000
+
+## Profit over Regular 500 kVA DV
+
+- Rs
+  - KOEL-SOLO: 62300
+
+
+
+
+# Operating Cost for 500 kVA DG set @ ~25% load
+
+## Make of Engine
+
+- Engine Model/ Genset Model
+  - KOEL-SOLO
+    - KG1-500WS
+  - KOEL-OPTIPRIME
+    - KG1-500WS OPTIPRIME (6SL90ETA-4G2)
+
+## DG set rating (Prime Rating)
+
+- kVA
+  - KOEL-SOLO: 500
+  - KOEL-OPTIPRIME: 500
+- Kw
+  - KOEL-SOLO: 400
+  - KOEL-OPTIPRIME: 400
+
+## Units generated per Hour @ ~25% load
+
+- Kwh/ hour
+  - KOEL-SOLO: 100
+  - KOEL-OPTIPRIME: 100
+
+## Number of Hours per year
+
+- KOEL-SOLO: 10000
+- KOEL-OPTIPRIME: 10000
+
+## Number of units generated per year
+
+- KOEL-SOLO: 1000000
+- KOEL-OPTIPRIME: 1000000
+
+## Fuel Cost
+
+### Fuel Rates
+
+- Rs. / litre
+  - KOEL-SOLO: 100.00
+  - KOEL-OPTIPRIME: 100.00
+
+### Fuel Consumption @ ~25% load
+
+- Litres / hour
+  - KOEL-SOLO: 29.30
+  - KOEL-OPTIPRIME: 29.00
+
+## Number of Units per Litre of Diesel
+
+- Kwh / litre
+  - KOEL-SOLO: 3.41
+  - KOEL-OPTIPRIME: 3.45
+
+## Fuel Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 29.30
+  - KOEL-OPTIPRIME: 29.00
+
+## Lub Oil Consumption Cost
+
+### Lub Oil Consumption @ ~25% load
+
+- Litres / hour
+  - KOEL-SOLO: 0.04
+  - KOEL-OPTIPRIME: 0.03
+
+### Cost of Lab Oil
+
+- Rs. / litre
+  - KOEL-SOLO: 275
+  - KOEL-OPTIPRIME: 275
+
+### Lub Oil Consumption Cost
+
+- Rs. / hour
+  - KOEL-SOLO: 11
+  - KOEL-OPTIPRIME: 8
+
+### Lub Oil Consumption Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 0.110
+  - KOEL-OPTIPRIME: 0.080
+
+## DEF Cost
+
+### DEF Consumption @ ~25% load
+
+- Litres / hour
+  - KOEL-SOLO: 1.755
+  - KOEL-OPTIPRIME: 1.700
+
+### DEF of Lab Oil
+
+- Rs. / litre
+  - KOEL-SOLO: 36
+  - KOEL-OPTIPRIME: 36
+
+### DEF Consumption Cost
+
+- Rs. / hour
+  - KOEL-SOLO: 63
+  - KOEL-OPTIPRIME: 61
+
+### DEF Consumption Cost
+
+- Rs / kwh
+  - KOEL-SOLO: 0.630
+  - KOEL-OPTIPRIME: 0.610
+
+## Maintenance Cost
+
+### Maintenance Period
+
+- Hours
+  - KOEL-SOLO: 1000.00
+  - KOEL-OPTIPRIME: 1000.00
+
+### Maintenance kit cost
+
+- Rs
+  - KOEL-SOLO: 51675
+  - KOEL-OPTIPRIME: 51332
+
+### Maintenance cost
+
+- Rs / Kwh
+  - KOEL-SOLO: 0.517
+  - KOEL-OPTIPRIME: 0.513
+
+## Total Cost per KWH
+
+- Rs / Kwh
+  - KOEL-SOLO: 36.83
+  - KOEL-OPTIPRIME: 36.33
+
+## Operating Cost for 500kVA DG set
+
+- Rs
+  - KOEL-SOLO: 36830000
+  - KOEL-OPTIPRIME: 36330000
+
+## Profit over Regular 500 kVA DV
+
+- Rs
+  - KOEL-SOLO: 36830000
+
+Process finished with exit code 0

@@ -1,0 +1,124 @@
+### Operating Cost for 2020 kVA DG set @ 50% load
+
+#### Make of Engine
+- **1010 kVA @ 100% load**: KG1-1010WS
+- **2020 (Opt.) @ 50% load**: OPTIPRIME 2020 (Containerised) DV16 ETA G3
+
+#### Engine Model / Genset Model
+- **1010 kVA @ 100% load**: KG1-1010WS
+- **2020 (Opt.) @ 50% load**: OPTIPRIME 2020 (Containerised) DV16 ETA G3
+
+#### DG setting (Prime Rating)
+- **1010 kVA @ 100% load**: 1010 kVA
+- **2020 (Opt.) @ 50% load**: 2020 kVA
+
+#### Units generated per Hour @ 50% load
+- **1010 kVA @ 100% load**: 808 Kw / hour
+- **2020 (Opt.) @ 50% load**: 1616 Kw / hour
+
+#### Number of Hours per year
+- **1010 kVA @ 100% load**: 1000 hours
+- **2020 (Opt.) @ 50% load**: 1000 hours
+
+#### Number of units generated per year
+- **1010 kVA @ 100% load**: 404000 units
+- **2020 (Opt.) @ 50% load**: 808000 units
+
+#### Fuel Cost
+- **Fuel Rates**: Rs. / litre 100.00
+- **Fuel Consumption @ 50% load**: 199.90 litres / hour
+- **Number of Units per Litre of Diesel**: 2.03 Kwh / litre
+- **Fuel Cost**: Rs. / kwh 49.26
+
+#### Lab Oil Consumption Cost
+- **Lab Oil Consumption @ 50% load**: 0.24 litres / hour
+- **Cost of Lab Oil**: 275 Rs. / litre
+- **Lab Oil Consumption Cost**: 66 Rs. / hour
+
+#### DEF Cost
+- **DEF Consumption @ 75% load**: 16.915 litres / hour
+- **DEF of Lab Oil**: 36 Rs. / litre
+- **DEF Consumption Cost**: 609 Rs. / hour
+
+#### Maintenance Period Cost
+- **Maintenance Period**: 1000 hours
+
+#### Maintenance kit cost
+- **Maintenance kit cost**: 143527 Rs.
+
+#### Maintenance Cost
+- **Maintenance cost**: 0.355 Rs. / kwh
+
+#### Total Cost per KWH
+- **Total Cost per KWH**: 51.28 Rs. / kwh
+
+#### Operating Cost for 1010 kVA DG set
+- **Operating Cost for 1010 kVA DG set**: 20718137 Rs. / kwh
+
+#### Profit over Regular 1010 kVA DG
+- **Profit over Regular 1010 kVA DG**: -16956 Rs.
+
+---
+
+
+
+### Operating Cost for 2020 kVA DG set @ 25% load
+
+#### Make of Engine
+- **1010 kVA @ 50% load**: KG1-1010WS
+- **2020 (Opt.) @ 25% load**: OPTIPRIME 2020 (Containerised) DV16 ETA G3
+
+#### Engine Model / Genset Model
+- **1010 kVA @ 50% load**: KG1-1010WS
+- **2020 (Opt.) @ 25% load**: OPTIPRIME 2020 (Containerised) DV16 ETA G3
+
+#### DG setting (Prime Rating)
+- **1010 kVA @ 50% load**: 1010 kVA
+- **2020 (Opt.) @ 25% load**: 2020 kVA
+
+#### Units generated per Hour @ 25% load
+- **1010 kVA @ 50% load**: 202 Kw / hour
+- **2020 (Opt.) @ 25% load**: 404 Kw / hour
+
+#### Number of Hours per year
+- **1010 kVA @ 50% load**: 1000 hours
+- **2020 (Opt.) @ 25% load**: 1000 hours
+
+#### Number of units generated per year
+- **1010 kVA @ 50% load**: 202000 units
+- **2020 (Opt.) @ 25% load**: 404000 units
+
+#### Fuel Cost
+- **Fuel Rates**: Rs. / litre 100.00
+- **Fuel Consumption @ 25% load**: 112.00 litres / hour
+- **Number of Units per Litre of Diesel**: 1.80 Kwh / litre
+- **Fuel Cost**: Rs. / kwh 55.45
+
+#### Lab Oil Consumption Cost
+- **Lab Oil Consumption @ 25% load**: 0.13 litres / hour
+- **Cost of Lab Oil**: 275 Rs. / litre
+- **Lab Oil Consumption Cost**: 37 Rs. / hour
+
+#### DEF Cost
+- **DEF Consumption @ 75% load**: 9.520 litres / hour
+- **DEF of Lab Oil**: 36 Rs. / litre
+- **DEF Consumption Cost**: 343 Rs. / hour
+
+#### Maintenance Period Cost
+- **Maintenance Period**: 1000 hours
+
+#### Maintenance kit cost
+- **Maintenance kit cost**: 143527 Rs.
+
+#### Maintenance Cost
+- **Maintenance cost**: 0.711 Rs. / kwh
+
+#### Total Cost per KWH
+- **Total Cost per KWH**: 58.04 Rs. / kwh
+
+#### Operating Cost for 500 kVA DG set
+- **Operating Cost for 500 kVA DG set**: 11723207 Rs. / kwh
+
+#### Profit over Regular 500 kVA DG
+- **Profit over Regular 500 kVA DG**: 93051 Rs.
+

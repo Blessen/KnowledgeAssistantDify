@@ -1,0 +1,260 @@
+# Operating Cost for 1500 kVA DG set @ 75% load
+
+## Make of Engine: KOEL-SOLO
+
+- Engine Model/ Genset Model: KG1-1500WS
+- DG set rating (Prime Rating): 1500 kVA
+- DG set rating: 1200 kW
+- Units generated per Hour @75% load: 900 Kwh/hour
+- Number of Hours per year: 1000
+- Number of units generated per year: 900000
+
+### Fuel Cost
+
+- Fuel Rates: Rs./litre 100
+- Fuel Consumption @ 75% load: 230.00 Litres/hour
+- Number of Units per Litre of Diesel: 3.91 Kwh/litre
+- Fuel Cost: Rs/kwh 25.56
+
+### Lub Oil Consumption Cost
+
+- Lub Oil Consumption @ 75% load: 0.28 Litres/hour
+- Cost of Lab Oil: Rs./litre 275
+- Lub Oil Consumption Cost: Rs./hour 76
+- Lub Oil Consumption Cost: Rs/kwh 0.084
+
+### DEF Cost
+
+- DEF Consumption @ 75% load: 19.550 Litres/hour
+- DEF of Lab Oil: Rs./litre 80
+- DEF Consumption Cost: Rs./hour 1564
+- DEF Consumption Cost: Rs/kwh 1.738
+
+### Maintenance Cost
+
+- Maintenance Period: Hours 1000
+- Maintenance kit cost: Rs 165593
+- Maintenance cost: Rs/Kwh 0.184
+
+### Total Cost
+
+- Total Cost per KWH: Rs/Kwh 27.56
+- Operating Cost for 1500 kVA DG set: Rs 24805493
+
+## Make of Engine: KOEL-OPTIPRIME
+
+- Engine Model/ Genset Model: OPTIPRIME 1500 (DV12 ETA 402)
+- DG set rating (Prime Rating): 1500 kVA
+- DG set rating: 1200 kW
+- Units generated per Hour @75% load: 900 Kwh/hour
+- Number of Hours per year: 1000
+- Number of units generated per year: 900000
+
+### Fuel Cost
+
+- Fuel Rates: Rs./litre 100
+- Fuel Consumption @ 75% load: 240.00 Litres/hour
+- Number of Units per Litre of Diesel: 3.75 Kwh/litre
+- Fuel Cost: Rs/kwh 26.67
+
+### Lub Oil Consumption Cost
+
+- Lub Oil Consumption @ 75% load: 0.29 Litres/hour
+- Cost of Lab Oil: Rs./litre 275
+- Lub Oil Consumption Cost: Rs./hour 79
+- Lub Oil Consumption Cost: Rs/kwh 0.088
+
+### DEF Cost
+
+- DEF Consumption @ 75% load: 20.400 Litres/hour
+- DEF of Lab Oil: Rs./litre 80
+- DEF Consumption Cost: Rs./hour 1632
+- DEF Consumption Cost: Rs/kwh 1.813
+
+### Maintenance Cost
+
+- Maintenance Period: Hours 1000
+- Maintenance kit cost: Rs 119884
+- Maintenance cost: Rs/Kwh 0.133
+
+### Total Cost
+
+- Total Cost per KWH: Rs/Kwh 28.70
+- Operating Cost for 1500 kVA DG set: Rs 25831084
+
+## Profit over Regular 1500 kVA - K4300
+
+- Profit over Regular 1500 kVA - K4300: Rs 1055501
+
+
+
+# Operating Cost for 1500 kVA DG set @ 50% load
+
+## Make of Engine: KOEL-SOLO
+
+- Engine Model/ Genset Model: KG1-1500WS
+- DG set rating (Prime Rating): 1500 kVA
+- DG set rating: 1200 kW
+- Units generated per Hour @50% load: 600 Kwh/hour
+- Number of Hours per year: 1000
+- Number of units generated per year: 600000
+
+### Fuel Cost
+
+- Fuel Rates: Rs./litre 100
+- Fuel Consumption @ 50% load: 157.00 Litres/hour
+- Number of Units per Litre of Diesel: 3.82 Kwh/litre
+- Fuel Cost: Rs/kwh 26.17
+
+### Lub Oil Consumption Cost
+
+- Lub Oil Consumption @ 50% load: 0.19 Litres/hour
+- Cost of Lab Oil: Rs./litre 275
+- Lub Oil Consumption Cost: Rs./hour 52
+- Lub Oil Consumption Cost: Rs/kwh 0.086
+
+### DEF Cost
+
+- DEF Consumption @ 50% load: 13.345 Litres/hour
+- DEF of Lab Oil: Rs./litre 80
+- DEF Consumption Cost: Rs./hour 1068
+- DEF Consumption Cost: Rs/kwh 1.779
+
+### Maintenance Cost
+
+- Maintenance Period: Hours 1000
+- Maintenance kit cost: Rs 165593
+- Maintenance cost: Rs/Kwh 0.276
+
+### Total Cost
+
+- Total Cost per KWH: Rs/Kwh 28.31
+- Operating Cost for 1500 kVA DG set: Rs 16985003
+
+## Make of Engine: KOEL-OPTIPRIME
+
+- Engine Model/ Genset Model: OPTIPRIME 1500 (DV12 ETA 402)
+- DG set rating (Prime Rating): 1500 kVA
+- DG set rating: 1200 kW
+- Units generated per Hour @50% load: 600 Kwh/hour
+- Number of Hours per year: 1000
+- Number of units generated per year: 600000
+
+### Fuel Cost
+
+- Fuel Rates: Rs./litre 100
+- Fuel Consumption @ 50% load: 154.00 Litres/hour
+- Number of Units per Litre of Diesel: 3.90 Kwh/litre
+- Fuel Cost: Rs/kwh 25.67
+
+### Lub Oil Consumption Cost
+
+- Lub Oil Consumption @ 50% load: 0.18 Litres/hour
+- Cost of Lab Oil: Rs./litre 275
+- Lub Oil Consumption Cost: Rs./hour 51
+- Lub Oil Consumption Cost: Rs/kwh 0.085
+
+### DEF Cost
+
+- DEF Consumption @ 50% load: 13.090 Litres/hour
+- DEF of Lab Oil: Rs./litre 80
+- DEF Consumption Cost: Rs./hour 1047
+- DEF Consumption Cost: Rs/kwh 1.745
+
+### Maintenance Cost
+
+- Maintenance Period: Hours 1000
+- Maintenance kit cost: Rs 119884
+- Maintenance cost: Rs/Kwh 0.200
+
+### Total Cost
+
+- Total Cost per KWH: Rs/Kwh 27.70
+- Operating Cost for 1500 kVA DG set: Rs 16617904
+
+
+
+# Operating Cost for 500kVA DG set @ ~25% load
+
+## Make of Engine: KOEL-SOLO
+
+- Engine Model/ Genset Model: KG1-1500WS
+- DG set rating (Prime Rating): 1500 kVA
+- DG set rating: 1200 kW
+- Units generated per Hour @~25% load: 300 Kwh/hour
+- Number of Hours per year: 1000
+- Number of units generated per year: 300000
+
+### Fuel Cost
+
+- Fuel Rates: Rs./litre 100
+- Fuel Consumption @ ~25% load: 78.50 Litres/hour
+- Number of Units per Litre of Diesel: 3.82 Kwh/litre
+- Fuel Cost: Rs/kwh 26.17
+
+### Lub Oil Consumption Cost
+
+- Lub Oil Consumption @ ~25% load: 0.095 Litres/hour
+- Cost of Lab Oil: Rs./litre 275
+- Lub Oil Consumption Cost: Rs./hour 26
+- Lub Oil Consumption Cost: Rs/kwh 0.086
+
+### DEF Cost
+
+- DEF Consumption @ ~25% load: 6.672 Litres/hour
+- DEF of Lab Oil: Rs./litre 80
+- DEF Consumption Cost: Rs./hour 534
+- DEF Consumption Cost: Rs/kwh 1.779
+
+### Maintenance Cost
+
+- Maintenance Period: Hours 1000
+- Maintenance kit cost: Rs 165593
+- Maintenance cost: Rs/Kwh 0.552
+
+### Total Cost
+
+- Total Cost per KWH: Rs/Kwh 28.52
+- Operating Cost for 500kVA DG set: Rs 8789558
+
+## Make of Engine: KOEL-OPTIPRIME
+
+- Engine Model/ Genset Model: OPTIPRIME 1500 (DV12 ETA 402)
+- DG set rating (Prime Rating): 1500 kVA
+- DG set rating: 1200 kW
+- Units generated per Hour @~25% load: 300 Kwh/hour
+- Number of Hours per year: 1000
+- Number of units generated per year: 300000
+
+### Fuel Cost
+
+- Fuel Rates: Rs./litre 100
+- Fuel Consumption @ ~25% load: 77.00 Litres/hour
+- Number of Units per Litre of Diesel: 3.90 Kwh/litre
+- Fuel Cost: Rs/kwh 25.67
+
+### Lub Oil Consumption Cost
+
+- Lub Oil Consumption @ ~25% load: 0.090 Litres/hour
+- Cost of Lab Oil: Rs./litre 275
+- Lub Oil Consumption Cost: Rs./hour 25
+- Lub Oil Consumption Cost: Rs/kwh 0.083
+
+### DEF Cost
+
+- DEF Consumption @ ~25% load: 6.525 Litres/hour
+- DEF of Lab Oil: Rs./litre 80
+- DEF Consumption Cost: Rs./hour 522
+- DEF Consumption Cost: Rs/kwh 1.745
+
+### Maintenance Cost
+
+- Maintenance Period: Hours 1000
+- Maintenance kit cost: Rs 119884
+- Maintenance cost: Rs/Kwh 0.400
+
+### Total Cost
+
+- Total Cost per KWH: Rs/Kwh 27.85
+- Operating Cost for 500kVA DG set: Rs 9333064
+

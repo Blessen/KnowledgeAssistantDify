@@ -1,0 +1,188 @@
+# Operating Cost for 400 kVA DG set @ 75% load
+## Make of Engine: KOEL - SOLO
+- Engine Model/ Genset Model: KG4-400WS11
+- DG set rating (Prime Rating): KVA 400
+- DG set rating: KW 320
+- Units generated per Hour @75% load: kWH 240
+- Number of Hours per year: 1000
+- Number of units generated per year: kWH 240000
+- Fuel Cost:
+  - Fuel Rates: Rs / litre 100
+  - Fuel Consumption @ 75% load: Litres / hour 68.31
+  - Fuel Consumption Cost: Rs / hour 6831
+  - Number of Units per Litre of Diesel: Kwh / litre 3.51
+  - Fuel Cost: Rs / kwh 28.46
+- Lub Oil Consumption Cost:
+  - Lub Oil Consumption @ 75% load: Litres / hour 0.08
+  - Cost of Lub Oil: Rs / litre 275
+  - Lub Oil Consumption Cost: Rs / hour 23
+  - Lub Oil Consumption Cost: Rs / kwh 0.094
+- DEF Cost:
+  - DEF Consumption @ 75% load: Litres / hour 5.806
+  - DEF of Lub Oil: Rs / litre 36
+  - DEF Consumption Cost: Rs / hour 209
+  - DEF Consumption Cost: Rs / kwh 0.871
+- Maintenance Cost:
+  - Maintenance Period: Hours 1000
+  - Maintenance kit cost: Rs 51675
+  - Maintenance cost: Rs / Kwh 0.215
+- Total Cost per KWH: Rs / Kwh 32.40
+- Operating Cost for 400kVA DG set: Rs 7776497
+
+## Make of Engine: KOEL-OPTIPRIME
+- Engine Model/ Genset Model: Optiprime 400 (6K10807A 4G2)
+- DG set rating (Prime Rating): KVA 400
+- DG set rating: KW 320
+- Units generated per Hour @75% load: kWH 240
+- Number of Hours per year: 1000
+- Number of units generated per year: kWH 240000
+- Fuel Cost:
+  - Fuel Rates: Rs / litre 100
+  - Fuel Consumption @ 75% load: Litres / hour 74.74
+  - Fuel Consumption Cost: Rs / hour 7474
+  - Number of Units per Litre of Diesel: Kwh / litre 3.21
+  - Fuel Cost: Rs / kwh 31.14
+- Lub Oil Consumption Cost:
+  - Lub Oil Consumption @ 75% load: Litres / hour 0.09
+  - Cost of Lub Oil: Rs / litre 275
+  - Lub Oil Consumption Cost: Rs / hour 25
+  - Lub Oil Consumption Cost: Rs / kwh 0.103
+- DEF Cost:
+  - DEF Consumption @ 75% load: Litres / hour 6.353
+  - DEF of Lub Oil: Rs / litre 36
+  - DEF Consumption Cost: Rs / hour 229
+  - DEF Consumption Cost: Rs / kwh 0.953
+- Maintenance Cost:
+  - Maintenance Period: Hours 1000
+  - Maintenance kit cost: Rs 49128
+  - Maintenance cost: Rs / Kwh 0.205
+- Total Cost per KWH: Rs / Kwh 32.40
+- Operating Cost for 400kVA DG set: Rs 7114246
+- Profit over 400kVA Single Genset: Rs 662201
+
+
+# Operating Cost for 400 kVA DG set @ 50% load
+## Make of Engine: KOEL - SOLO
+- Engine Model/ Genset Model: KG4-400WS11
+- DG set rating (Prime Rating): KVA 400
+- DG set rating: KW 320
+- Units generated per Hour @50% load: Kwh / hour 160
+- Number of Hours per year: 1000
+- Number of units generated per year: kWH 160000
+- Fuel Cost:
+  - Fuel Rates: Rs / litre 100
+  - Fuel Consumption @ 50% load: Litres / hour 52.70
+  - Fuel Consumption Cost: Rs / hour 5270
+  - Number of Units per Litre of Diesel: Kwh / litre 3.04
+  - Fuel Cost: Rs / kwh 32.94
+- Lub Oil Consumption Cost:
+  - Lub Oil Consumption @ 50% load: Litres / hour 0.06
+  - Cost of Lub Oil: Rs / litre 275
+  - Lub Oil Consumption Cost: Rs / hour 17
+  - Lub Oil Consumption Cost: Rs / kwh 0.109
+- DEF Cost:
+  - DEF Consumption @ 50% load: Litres / hour 4.480
+  - DEF of Lub Oil: Rs / litre 36
+  - DEF Consumption Cost: Rs / hour 161
+  - DEF Consumption Cost: Rs / kwh 1.008
+- Maintenance Cost:
+  - Maintenance Period: Hours 1000
+  - Maintenance kit cost: Rs 51675
+  - Maintenance cost: Rs / Kwh 0.323
+- Total Cost per KWH: Rs / Kwh 34.38
+- Operating Cost for 400kVA DG set: Rs 5500328
+
+## Make of Engine: KOEL-OPTIPRIME
+- Engine Model/ Genset Model: Optiprime 400 (6K10807A 4G2)
+- DG set rating (Prime Rating): KVA 400
+- DG set rating: KW 320
+- Units generated per Hour @50% load: Kwh / hour 160
+- Number of Hours per year: 1000
+- Number of units generated per year: kWH 160000
+- Fuel Cost:
+  - Fuel Rates: Rs / litre 100
+  - Fuel Consumption @ 50% load: Litres / hour 48.40
+  - Fuel Consumption Cost: Rs / hour 4840
+  - Number of Units per Litre of Diesel: Kwh / litre 3.31
+  - Fuel Cost: Rs / kwh 30.25
+- Lub Oil Consumption Cost:
+  - Lub Oil Consumption @ 50% load: Litres / hour 0.06
+  - Cost of Lub Oil: Rs / litre 275
+  - Lub Oil Consumption Cost: Rs / hour 16
+  - Lub Oil Consumption Cost: Rs / kwh 0.100
+- DEF Cost:
+  - DEF Consumption @ 50% load: Litres / hour 4.114
+  - DEF of Lub Oil: Rs / litre 36
+  - DEF Consumption Cost: Rs / hour 148
+  - DEF Consumption Cost: Rs / kwh 0.925
+- Maintenance Cost:
+  - Maintenance Period: Hours 1000
+  - Maintenance kit cost: Rs 49128
+  - Maintenance cost: Rs / Kwh 0.307
+- Total Cost per KWH: Rs / Kwh 31.58
+- Operating Cost for 400kVA DG set: Rs 5052048
+- Profit over 400kVA Single Genset: Rs 448280
+
+
+# Operating Cost for 400 kVA DG set @ 25% load
+## Make of Engine: KOEL - SOLO
+- Engine Model/ Genset Model: KG4-400WS11
+- DG set rating (Prime Rating): KVA 400
+- DG set rating: KW 320
+- Units generated per Hour @25% load: Kwh / hour 80
+- Number of Hours per year: 1000
+- Number of units generated per year: kWH 80000
+- Fuel Cost:
+  - Fuel Rates: Rs / litre 100
+  - Fuel Consumption @ 25% load: Litres / hour 26.35
+  - Fuel Consumption Cost: Rs / hour 2635
+  - Number of Units per Litre of Diesel: Kwh / litre 3.04
+  - Fuel Cost: Rs / kwh 82.82
+- Lub Oil Consumption Cost:
+  - Lub Oil Consumption @ 25% load: Litres / hour 0.03
+  - Cost of Lub Oil: Rs / litre 275
+  - Lub Oil Consumption Cost: Rs / hour 8
+  - Lub Oil Consumption Cost: Rs / kwh 0.100
+- DEF Cost:
+  - DEF Consumption @ 25% load: Litres / hour 2.24
+  - DEF of Lub Oil: Rs / litre 36
+  - DEF Consumption Cost: Rs / hour 80
+  - DEF Consumption Cost: Rs / kwh 1.000
+- Maintenance Cost:
+  - Maintenance Period: Hours 1000
+  - Maintenance kit cost: Rs 51675
+  - Maintenance cost: Rs / Kwh 0.646
+- Total Cost per KWH: Rs / Kwh 83.83
+- Operating Cost for 400kVA DG set: Rs 6706571
+
+## Make of Engine: KOEL-OPTIPRIME
+- Engine Model/ Genset Model: Optiprime 400 (6K10807A 4G2)
+- DG set rating (Prime Rating): KVA 400
+- DG set rating: KW 320
+- Units generated per Hour @25% load: Kwh / hour 80
+- Number of Hours per year: 1000
+- Number of units generated per year: kWH 80000
+- Fuel Cost:
+  - Fuel Rates: Rs / litre 100
+  - Fuel Consumption @ 25% load: Litres / hour 24.20
+  - Fuel Consumption Cost: Rs / hour 2420
+  - Number of Units per Litre of Diesel: Kwh / litre 3.31
+  - Fuel Cost: Rs / kwh 73.13
+- Lub Oil Consumption Cost:
+  - Lub Oil Consumption @ 25% load: Litres / hour 0.03
+  - Cost of Lub Oil: Rs / litre 275
+  - Lub Oil Consumption Cost: Rs / hour 8
+  - Lub Oil Consumption Cost: Rs / kwh 0.100
+- DEF Cost:
+  - DEF Consumption @ 25% load: Litres / hour 2.057
+  - DEF of Lub Oil: Rs / litre 36
+  - DEF Consumption Cost: Rs / hour 74
+  - DEF Consumption Cost: Rs / kwh 0.925
+- Maintenance Cost:
+  - Maintenance Period: Hours 1000
+  - Maintenance kit cost: Rs 49128
+  - Maintenance cost: Rs / Kwh 0.614
+- Total Cost per KWH: Rs / Kwh 73.83
+- Operating Cost for 400kVA DG set: Rs 5906571
+- Profit over 400kVA Single Genset: Rs 800000
+
