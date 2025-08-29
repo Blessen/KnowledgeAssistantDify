@@ -104,6 +104,7 @@ class VariableEntity(BaseModel):
     Variable Entity.
     """
 
+    # `variable` records the name of the variable in user inputs.
     variable: str
     label: str
     description: str = ""
@@ -147,6 +148,8 @@ SupportedComparisonOperator = Literal[
     "is not",
     "empty",
     "not empty",
+    "in",
+    "not in",
     # for number
     "=",
     "≠",

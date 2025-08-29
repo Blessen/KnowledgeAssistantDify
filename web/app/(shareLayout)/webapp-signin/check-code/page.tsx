@@ -25,7 +25,10 @@ export default function CheckCode() {
   const redirectUrl = searchParams.get('redirect_url')
 
   const getAppCodeFromRedirectUrl = useCallback(() => {
-    const appCode = redirectUrl?.split('/').pop()
+    if (!redirectUrl)
+      return null
+    const url = new URL(`${window.location.origin}${decodeURIComponent(redirectUrl)}`)
+    const appCode = url.pathname.split('/').pop()
     if (!appCode)
       return null
 
@@ -62,7 +65,7 @@ export default function CheckCode() {
         localStorage.setItem('webapp_access_token', ret.data.access_token)
         const tokenResp = await fetchAccessToken({ appCode, webAppAccessToken: ret.data.access_token })
         await setAccessToken(appCode, tokenResp.access_token)
-        router.replace(redirectUrl)
+        router.replace(decodeURIComponent(redirectUrl))
       }
     }
     catch (error) { console.error(error) }
@@ -90,7 +93,10 @@ export default function CheckCode() {
     <div className='pb-4 pt-2'>
       <h2 className='title-4xl-semi-bold text-text-primary'>{t('login.checkCode.checkYourEmail')}</h2>
       <p className='body-md-regular mt-2 text-text-secondary'>
-        <span dangerouslySetInnerHTML={{ __html: t('login.checkCode.tips', { email }) as string }}></span>
+        <span>
+          {t('login.checkCode.tipsPrefix')}
+          <strong>{email}</strong>
+        </span>
         <br />
         {t('login.checkCode.validTime')}
       </p>

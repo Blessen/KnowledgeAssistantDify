@@ -110,15 +110,16 @@ const translation = {
     publishUpdate: 'Pubblica aggiornamento',
     versionHistory: 'Cronologia delle versioni',
     exitVersions: 'Uscita Versioni',
-    referenceVar: 'Variabile di riferimento',
     exportSVG: 'Esporta come SVG',
     exportImage: 'Esporta immagine',
     exportJPEG: 'Esporta come JPEG',
-    noExist: 'Nessuna variabile del genere',
     exportPNG: 'Esporta come PNG',
     needEndNode: 'Deve essere aggiunto il nodo finale',
     addBlock: 'Aggiungi nodo',
     needAnswerNode: 'Deve essere aggiunto il nodo di risposta',
+    tagBound: 'Numero di app che utilizzano questo tag',
+    currentWorkflow: 'Flusso di lavoro corrente',
+    currentView: 'Vista corrente',
   },
   env: {
     envPanelTitle: 'Variabili d\'Ambiente',
@@ -133,6 +134,8 @@ const translation = {
       value: 'Valore',
       valuePlaceholder: 'valore env',
       secretTip: 'Utilizzato per definire informazioni o dati sensibili, con impostazioni DSL configurate per la prevenzione delle fughe.',
+      description: 'Descrizione',
+      descriptionPlaceholder: 'Descrivi la variabile',
     },
     export: {
       title: 'Esportare variabili d\'ambiente segrete?',
@@ -224,7 +227,6 @@ const translation = {
   tabs: {
     'tools': 'Strumenti',
     'allTool': 'Tutti',
-    'builtInTool': 'Integrato',
     'customTool': 'Personalizzato',
     'workflowTool': 'Flusso di lavoro',
     'question-understand': 'Comprensione Domanda',
@@ -237,6 +239,8 @@ const translation = {
     'plugin': 'Plugin',
     'searchBlock': 'Cerca nodo',
     'blocks': 'Nodi',
+    'allAdded': 'Tutto aggiunto',
+    'addAll': 'Aggiungi tutto',
   },
   blocks: {
     'start': 'Inizio',
@@ -299,6 +303,18 @@ const translation = {
     zoomTo50: 'Zoom al 50%',
     zoomTo100: 'Zoom al 100%',
     zoomToFit: 'Zoom per Adattare',
+    alignRight: 'A destra',
+    selectionAlignment: 'Allineamento della selezione',
+    alignBottom: 'In basso',
+    alignTop: 'In alto',
+    vertical: 'Verticale',
+    alignCenter: 'Centro',
+    alignLeft: 'A sinistra',
+    alignMiddle: 'Centro',
+    horizontal: 'Orizzontale',
+    alignNodes: 'Allinea nodi',
+    distributeHorizontal: 'Spazia orizzontalmente',
+    distributeVertical: 'Spazia verticalmente',
   },
   panel: {
     userInputField: 'Campo di Input Utente',
@@ -318,6 +334,8 @@ const translation = {
     selectNextStep: 'Seleziona il prossimo passo',
     organizeBlocks: 'Organizzare i nodi',
     addNextStep: 'Aggiungi il prossimo passo in questo flusso di lavoro',
+    minimize: 'Esci dalla modalità schermo intero',
+    maximize: 'Massimizza Canvas',
   },
   nodes: {
     common: {
@@ -374,6 +392,10 @@ const translation = {
         retrySuccessful: 'Riprova riuscito',
         retryFailed: 'Nuovo tentativo non riuscito',
         ms: 'ms',
+      },
+      typeSwitch: {
+        input: 'Valore di input',
+        variable: 'Usa la variabile',
       },
     },
     start: {
@@ -486,6 +508,7 @@ const translation = {
           automatic: {
             subTitle: 'Genera automaticamente condizioni di filtraggio dei metadati in base alla query dell\'utente',
             desc: 'Genera automaticamente condizioni di filtraggio dei metadati basate sulla variabile di query',
+            title: 'Automatico',
           },
           manual: {
             title: 'Manuale',
@@ -502,6 +525,7 @@ const translation = {
           search: 'Cerca metadati',
         },
         title: 'Filtraggio dei metadati',
+        tip: 'Il filtraggio dei metadati è il processo di utilizzo degli attributi dei metadati (come tag, categorie o permessi di accesso) per affinare e controllare il recupero di informazioni pertinenti all\'interno di un sistema.',
       },
     },
     http: {
@@ -551,6 +575,10 @@ const translation = {
         placeholder: 'Incolla qui la stringa cURL',
         title: 'Importazione da cURL',
       },
+      verifySSL: {
+        title: 'Verifica il certificato SSL',
+        warningTooltip: 'Disabilitare la verifica SSL non è raccomandato per gli ambienti di produzione. Questo dovrebbe essere utilizzato solo in sviluppo o test, poiché rende la connessione vulnerabile a minacce alla sicurezza come gli attacchi man-in-the-middle.',
+      },
     },
     code: {
       inputVars: 'Variabili di Input',
@@ -559,6 +587,7 @@ const translation = {
       advancedDependenciesTip:
         'Aggiungi alcune dipendenze precaricate che richiedono più tempo per essere consumate o che non sono predefinite qui',
       searchDependencies: 'Cerca Dipendenze',
+      syncFunctionSignature: 'Sincronizza la firma della funzione con il codice',
     },
     templateTransform: {
       inputVars: 'Variabili di Input',
@@ -588,13 +617,13 @@ const translation = {
         'not empty': 'non è vuoto',
         'null': 'è nullo',
         'not null': 'non è nullo',
-        'regex match': 'Corrispondenza regex',
         'in': 'in',
         'all of': 'tutto di',
         'not in': 'non in',
         'exists': 'Esiste',
         'not exists': 'non esiste',
         'after': 'dopo',
+        'before': 'prima',
       },
       enterValue: 'Inserisci valore',
       addCondition: 'Aggiungi Condizione',
@@ -610,7 +639,6 @@ const translation = {
       },
       addSubVariable: 'Variabile secondaria',
       select: 'Selezionare',
-      condition: 'Condizione',
     },
     variableAssigner: {
       title: 'Assegna variabili',
@@ -680,12 +708,16 @@ const translation = {
         json: 'json generato dallo strumento',
       },
       authorize: 'Autorizza',
+      insertPlaceholder1: 'Digita o premi',
+      insertPlaceholder2: 'inserisci variabile',
+      settings: 'Impostazioni',
     },
     questionClassifiers: {
       model: 'modello',
       inputVars: 'Variabili di Input',
       outputVars: {
         className: 'Nome Classe',
+        usage: 'Informazioni sull\'utilizzo del modello',
       },
       class: 'Classe',
       classNamePlaceholder: 'Scrivi il nome della tua classe',
@@ -700,6 +732,11 @@ const translation = {
     },
     parameterExtractor: {
       inputVar: 'Variabile di Input',
+      outputVars: {
+        isSuccess: 'È successo. In caso di successo il valore è 1, in caso di fallimento il valore è 0.',
+        errorReason: 'Motivo dell\'errore',
+        usage: 'Informazioni sull\'utilizzo del modello',
+      },
       extractParameters: 'Estrai Parametri',
       importFromTool: 'Importa dagli strumenti',
       addExtractParameter: 'Aggiungi Parametro Estratto',
@@ -722,9 +759,6 @@ const translation = {
       reasoningMode: 'Modalità di ragionamento',
       reasoningModeTip:
         'Puoi scegliere la modalità di ragionamento appropriata in base alla capacità del modello di rispondere alle istruzioni per la chiamata delle funzioni o i prompt.',
-      isSuccess:
-        'È successo. In caso di successo il valore è 1, in caso di fallimento il valore è 0.',
-      errorReason: 'Motivo dell\'errore',
     },
     iteration: {
       deleteTitle: 'Eliminare Nodo Iterazione?',
@@ -866,6 +900,8 @@ const translation = {
       strategyNotFoundDescAndSwitchVersion: 'La versione del plugin installata non fornisce questa strategia. Fare clic per cambiare versione.',
       pluginNotInstalled: 'Questo plugin non è installato',
       pluginNotFoundDesc: 'Questo plugin viene installato da GitHub. Vai su Plugin per reinstallare',
+      parameterSchema: 'Schema dei parametri',
+      clickToViewParameterSchema: 'Clicca per visualizzare lo schema dei parametri',
     },
     loop: {
       ErrorMethod: {
@@ -931,6 +967,7 @@ const translation = {
       updateSuccess: 'Versione aggiornata',
       deleteFailure: 'Impossibile eliminare la versione',
       updateFailure: 'Impossibile aggiornare la versione',
+      copyIdSuccess: 'ID copiato negli appunti',
     },
     latest: 'Ultimo',
     defaultName: 'Versione senza titolo',
@@ -941,6 +978,49 @@ const translation = {
     currentDraft: 'Bozza attuale',
     restorationTip: 'Dopo il ripristino della versione, la bozza attuale verrà sovrascritta.',
     title: 'Versioni',
+    copyId: 'Copia ID',
+  },
+  debug: {
+    noData: {
+      runThisNode: 'Esegui questo nodo',
+      description: 'I risultati dell\'ultima esecuzione verranno visualizzati qui',
+    },
+    variableInspect: {
+      trigger: {
+        cached: 'Visualizza le variabili memorizzate nella cache',
+        clear: 'Chiaro',
+        running: 'Caching stato di esecuzione',
+        normal: 'Ispezione Variabile',
+        stop: 'Ferma la corsa',
+      },
+      chatNode: 'Conversazione',
+      clearNode: 'Svuota la variabile cached',
+      envNode: 'Ambiente',
+      systemNode: 'Sistema',
+      title: 'Ispezione delle variabili',
+      edited: 'Modificato',
+      emptyLink: 'Scopri di più',
+      resetConversationVar: 'Reimposta la variabile della conversazione al valore predefinito',
+      view: 'Visualizza log',
+      clearAll: 'Ripristina tutto',
+      reset: 'Ripristina il valore dell\'ultima esecuzione',
+      emptyTip: 'Dopo aver eseguito un nodo sulla tela o eseguendo un nodo passo dopo passo, puoi visualizzare il valore attuale della variabile nodo in Ispeziona Variabile.',
+    },
+    settingsTab: 'Impostazioni',
+    lastRunTab: 'Ultima corsa',
+    relations: {
+      dependents: 'Dipendenti',
+      noDependencies: 'Nessuna dipendenza',
+      dependencies: 'Dipendenze',
+      noDependents: 'Nessuna persona a carico',
+      dependentsDescription: 'Nodi che si basano su questo nodo',
+      dependenciesDescription: 'Nodi su cui si basa questo nodo',
+    },
+    relationsTab: 'Relazioni',
+    copyLastRun: 'Copia ultimo eseguito',
+    noMatchingInputsFound: 'Nessun input corrispondente trovato dall\'ultimo funzionamento.',
+    copyLastRunError: 'Impossibile copiare gli input dell\'ultima esecuzione',
+    noLastRunFound: 'Nessuna esecuzione precedente trovata',
   },
 }
 

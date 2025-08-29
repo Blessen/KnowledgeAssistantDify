@@ -23,6 +23,10 @@ const translation = {
   importFromDSLFile: 'From DSL file',
   importFromDSLUrl: 'From URL',
   importFromDSLUrlPlaceholder: 'Paste DSL link here',
+  dslUploader: {
+    button: 'Drag and drop file, or',
+    browse: 'Browse',
+  },
   deleteAppConfirmTitle: 'Delete this app?',
   deleteAppConfirmContent:
     'Deleting the app is irreversible. Users will no longer be able to access your app, and all prompt configurations and logs will be permanently deleted.',
@@ -150,6 +154,14 @@ const translation = {
       notConfigured: 'Config provider to enable tracing',
       moreProvider: 'More Provider',
     },
+    arize: {
+      title: 'Arize',
+      description: 'Enterprise-grade LLM observability, online & offline evaluation, monitoring, and experimentation—powered by OpenTelemetry. Purpose-built for LLM & agent-driven applications.',
+    },
+    phoenix: {
+      title: 'Phoenix',
+      description: 'Open-source & OpenTelemetry-based observability, evaluation, prompt engineering and experimentation platform for your LLM workflows and agents.',
+    },
     langsmith: {
       title: 'LangSmith',
       description: 'An all-in-one developer platform for every step of the LLM-powered application lifecycle.',
@@ -165,6 +177,10 @@ const translation = {
     weave: {
       title: 'Weave',
       description: 'Weave is an open-source platform for evaluating, testing, and monitoring LLM applications.',
+    },
+    aliyun: {
+      title: 'Cloud Monitor',
+      description: 'The fully-managed and maintenance-free observability platform provided by Alibaba Cloud, enables out-of-the-box monitoring, tracing, and evaluation of Dify applications.',
     },
     inUse: 'In use',
     configProvider: {
@@ -199,9 +215,9 @@ const translation = {
   accessControl: 'Web App Access Control',
   accessItemsDescription: {
     anyone: 'Anyone can access the web app (no login required)',
-    specific: 'Only specific members within the platform can access the Web application',
-    organization: 'All members within the platform can access the Web application',
-    external: 'Only authenticated external users can access the Web application',
+    specific: 'Only specific members within the platform can access the web app',
+    organization: 'All members within the platform can access the web app',
+    external: 'Only authenticated external users can access the web app',
   },
   accessControlDialog: {
     title: 'Web App Access Control',
@@ -218,7 +234,7 @@ const translation = {
     members_one: '{{count}} MEMBER',
     members_other: '{{count}} MEMBERS',
     noGroupsOrMembers: 'No groups or members selected',
-    webAppSSONotEnabledTip: 'Please contact your organization administrator to configure external authentication for the Web application.',
+    webAppSSONotEnabledTip: 'Please contact your organization administrator to configure external authentication for the web app.',
     operateGroupAndMember: {
       searchPlaceholder: 'Search groups and members',
       allMembers: 'All members',
@@ -233,6 +249,52 @@ const translation = {
     notSetDesc: 'Currently nobody can access the web app. Please set permissions.',
   },
   noAccessPermission: 'No permission to access web app',
+  maxActiveRequests: 'Max concurrent requests',
+  maxActiveRequestsPlaceholder: 'Enter 0 for unlimited',
+  maxActiveRequestsTip: 'Maximum number of concurrent active requests per app (0 for unlimited)',
+  gotoAnything: {
+    searchPlaceholder: 'Search or type @ for commands...',
+    searchTitle: 'Search for anything',
+    searching: 'Searching...',
+    noResults: 'No results found',
+    searchFailed: 'Search failed',
+    searchTemporarilyUnavailable: 'Search temporarily unavailable',
+    servicesUnavailableMessage: 'Some search services may be experiencing issues. Try again in a moment.',
+    someServicesUnavailable: 'Some search services unavailable',
+    resultCount: '{{count}} result',
+    resultCount_other: '{{count}} results',
+    inScope: 'in {{scope}}s',
+    clearToSearchAll: 'Clear @ to search all',
+    useAtForSpecific: 'Use @ for specific types',
+    selectSearchType: 'Choose what to search for',
+    searchHint: 'Start typing to search everything instantly',
+    commandHint: 'Type @ to browse by category',
+    actions: {
+      searchApplications: 'Search Applications',
+      searchApplicationsDesc: 'Search and navigate to your applications',
+      searchPlugins: 'Search Plugins',
+      searchPluginsDesc: 'Search and navigate to your plugins',
+      searchKnowledgeBases: 'Search Knowledge Bases',
+      searchKnowledgeBasesDesc: 'Search and navigate to your knowledge bases',
+      searchWorkflowNodes: 'Search Workflow Nodes',
+      searchWorkflowNodesDesc: 'Find and jump to nodes in the current workflow by name or type',
+      searchWorkflowNodesHelp: 'This feature only works when viewing a workflow. Navigate to a workflow first.',
+    },
+    emptyState: {
+      noAppsFound: 'No apps found',
+      noPluginsFound: 'No plugins found',
+      noKnowledgeBasesFound: 'No knowledge bases found',
+      noWorkflowNodesFound: 'No workflow nodes found',
+      tryDifferentTerm: 'Try a different search term or remove the {{mode}} filter',
+      trySpecificSearch: 'Try {{shortcuts}} for specific searches',
+    },
+    groups: {
+      apps: 'Apps',
+      plugins: 'Plugins',
+      knowledgeBases: 'Knowledge Bases',
+      workflowNodes: 'Workflow Nodes',
+    },
+  },
 }
 
 export default translation

@@ -103,19 +103,19 @@ function unicodeToChar(text: string) {
   if (!text)
     return ''
 
-  return text.replace(/\\u[0-9a-f]{4}/g, (_match, p1) => {
+  return text.replace(/\\u([0-9a-f]{4})/g, (_match, p1) => {
     return String.fromCharCode(Number.parseInt(p1, 16))
   })
 }
 
 function requiredWebSSOLogin(message?: string, code?: number) {
   const params = new URLSearchParams()
-  params.append('redirect_url', globalThis.location.pathname)
+  params.append('redirect_url', encodeURIComponent(`${globalThis.location.pathname}${globalThis.location.search}`))
   if (message)
     params.append('message', message)
   if (code)
     params.append('code', String(code))
-  globalThis.location.href = `/webapp-signin?${params.toString()}`
+  globalThis.location.href = `${globalThis.location.origin}${basePath}/webapp-signin?${params.toString()}`
 }
 
 export function format(text: string) {
@@ -413,7 +413,7 @@ export const ssePost = async (
 
                 if (data.code === 'unauthorized') {
                   removeAccessToken()
-                  globalThis.location.reload()
+                  requiredWebSSOLogin()
                 }
               }
             })
@@ -507,7 +507,7 @@ export const request = async<T>(url: string, options = {}, otherOptions?: IOther
       } = otherOptionsForBaseFetch
       if (isPublicAPI && code === 'unauthorized') {
         removeAccessToken()
-        globalThis.location.reload()
+        requiredWebSSOLogin()
         return Promise.reject(err)
       }
       if (code === 'init_validate_failed' && IS_CE_EDITION && !silent) {
